@@ -1,2 +1,4 @@
 pub mod challenge_01_hex_to_base64;
 pub mod challenge_02_fixed_xor;
+pub mod challenge_03_single_byte_xor_cipher;
+pub mod challenge_04_detect_single_character_xor;

@@ -34,7 +34,7 @@ mod tests {
     }
 
     #[test]
-    fn test_xor() {
+    fn test_xor_bytes() {
         let test_cases = vec![(
             vec![5, 6, 7, 8, 100],
             vec![100, 100, 100, 100, 100],
